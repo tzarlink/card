@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{ color:#656565;text-decoration:none;outline:none}
+a:hover{ color:#CC0000;text-decoration:none;}
+
+.fs_14 { font-size:14px;}
+.fs_16{ font-size:16px !important}
+
+.font_family{ font-family:"Microsoft Yahei"}
+
+
+.fc_Black { color:#000}
+a.fc_Black:hover{ color:#CC0000;}
+
+.fc_red { color:#FF0000}
+a.fc_red:hover{ color:#CC0000;}
+
+.fc_green { color:#018518}
+a.fc_green:hover{ color:#CC0000;}
+
+.fc_Yellow { color:#FDF001}
+a.fc_Yellow:hover{ color:#CC0000;}
+
+.fc_Orange { color:#FF6600}
+a.fc_Orange:hover{ color:#CC0000;}
+
+.fc_White { color:#FFF}
+a.fc_White:hover{ color:#CC0000;}
+
+.fc_Blue { color:#0000FE}
+a.fc_Blue:hover{ color:#CC0000;}
+
+.ft_u{ text-decoration:underline}
+.ft_b{ font-weight:bold}
+
+
+.fc_1 { color:#c00;}
+a.fc_1:hover{ color:#F00;text-decoration:none;}
+
+.fc_2 { color:#666;}
+a.fc_2:hover{ color:#CC0000;text-decoration:none;}
+
+.fc_3 { color:#075681;}
+a.fc_3:hover{ color:#CC0000;text-decoration:none;}
+
+.fc_4 { color:#8E1615;}
+a.fc_4:hover{ color:#CC0000;text-decoration:none;}
+
+.fc_5 { color:#B8BDC0;}
+a.fc_5:hover{ color:#CC0000;text-decoration:none;}
+
+.fc_6 { color:#454545;}
+a.fc_6:hover{ color:#CC0000;text-decoration:none;}
+
+.fc_7 { color:#9B0002;}
+a.fc_7:hover{ color:#F00;text-decoration:none;}
+
+.fc_8 { color:#432105; text-decoration:underline;}
+a.fc_8:hover{ color:#F00;text-decoration:underline;}
+
+.fc_9 { color:#1164B0; }
+a.fc_9:hover{ color:#F00;text-decoration:none;}
+
+.fc_9_2 { color:#1164B0; font-weight:bold; font-size:13px;}
+a.fc_9_2:hover{ color:#F00;text-decoration:none;}
+
+.fc_10 { color:#1164B0; }
+a.fc_10:hover{ color:#F00;text-decoration:none;}
+
+.fc_11 { color:#372DFF;text-decoration:underline;}
+a.fc_11:hover{ color:#F00;text-decoration:underline;}
+
+.fc_12{ color:#042F9A; text-decoration:underline; cursor:pointer}
+a.fc_12:hover{ color:#F00;text-decoration:underline;}
+
+
+.font_1 { font-weight:bold; color:#AF0100; font-size:14px}
+.font_2 { font-size:12px; color:#666}
+.font_3 { color:#666; line-height:40px;}
+.font_4 { color:#F28916; font-size:16px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;}
+.font_5 { color:#4F4C4C; font-size:14px; font-weight:bold; }
+
+.fc_15 { color:#585858; font-size:12px}
+a.fc_15:hover{ color:#333;text-decoration:none;}
+
+.fc_16{ color:#0565AF; }
+a.fc_16:hover{ color:#F00;}
+
+.fc_17{ color:#3B3B3B; text-decoration:underline; font-weight:bold}
+a.fc_17:hover{ color:#c00;text-decoration:underline;}
+
+.fc_17_1{ color:#333; font-weight:bold}
+a.fc_17_1:hover{ color:#c00;}
+
+.fc_18{ color:#E60018; }
+a.fc_18:hover{ color:#F00;}
+
+
