@@ -1,6 +1,6 @@
 # 移动端名片系统
 
-一套移动端名片系统，一天加一个通宵时间整出来的，github提的第一个代码，过时的东西，有需要的拿去用吧。
+一套移动端名片系统，一天加一个通宵时间整出来的，过时的东西，github提的第一个代码，留作历史，有需要的拿去用吧。
 
 
 ![image](https://github.com/tzarlink/card/raw/master/introduce/1.png)
